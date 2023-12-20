@@ -17,6 +17,7 @@ Testing:
 ---
 
 Run the application:
+
 http://localhost:8080/application/defaultDB
 > This will hit table of default datasource DB
 
