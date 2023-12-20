@@ -9,7 +9,7 @@ Gradle: 7.4
 Open grails-app/conf/application.yml
 
 Update DB Host URL, Database name, username and password.
->> Create the client table having id and name column.
+> Create the client table having id and name column.
 
 You can use same database and data source.
 
